@@ -1,0 +1,76 @@
+.wrapper {
+    background-color: #D6E4EA;
+  }
+  
+  header {
+    background-color: #61A6F2;
+    padding: 20px;
+    text-align: center;
+    color: whitesmoke;
+  }
+  
+  nav {
+    background-color: #D6E4EA;
+    margin: 10px;
+    padding-bottom: 25px;
+    border-bottom: 3px solid black;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 1.1rem;
+  }
+  
+  /* unvisited link */
+  a:link {
+    color: #6381DB;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #6d7a74;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #93facb;
+    background-color: green;
+    padding: 2px;
+  }
+  
+  /* selected link */
+  a:active {
+    color: green;
+  }
+  
+  main {
+    background-color: #dffbee;
+  }
+  
+  footer {
+    background-color: #487a64;
+    padding: 25px;
+    text-align: center;
+    color: whitesmoke;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 50%;
+    background-color: white;
+    border: 1px solid black;
+  }
+  
+  th {
+    background-color: #487a64;
+    color: white;
+  }
+  
+  td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
