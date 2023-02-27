@@ -1,5 +1,5 @@
 .wrapper {
-    background-color: #D6E4EA;
+    background-color: #fafbfb;
   }
   
   header {
@@ -10,7 +10,7 @@
   }
   
   nav {
-    background-color: #6381DB;
+    background-color: navy;
     margin: 3px;
     padding-bottom: 10px;
     border-bottom: 5px solid black;
@@ -44,11 +44,11 @@
   }
   
   main {
-    background-color: #D6E4EA;
+    background-color: #f2f2f2;
   }
   
   footer {
-    background-color: #6165F2;
+    background-color: #61A6F2;
     padding: 25px;
     text-align: center;
     color: whitesmoke;
